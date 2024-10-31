@@ -1,3 +1,9 @@
+# ❗DEPRECATED❗
+
+This package has been deprecated.
+
+Please use the **[@backstage-community/plugin-jfrog-artifactory](https://www.npmjs.com/package/@backstage-community/plugin-jfrog-artifactory)** package instead.
+
 # Jfrog Artifactory plugin for Backstage
 
 The Jfrog Artifactory plugin displays information about your container images within the Jfrog Artifactory registry.
